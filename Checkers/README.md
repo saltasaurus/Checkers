@@ -1,5 +1,5 @@
 # Introduction
-Checkers is a great game to learn basic strategy
+Checkers is a great game to learn basic strategy\n
 Checkers can be played locally or against an AI.
 This is an implementation of TechWithTim's Checkers Tutorial
 Enjoy!
