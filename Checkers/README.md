@@ -1,6 +1,6 @@
 # Introduction
-Checkers is a great game to learn basic strategy <br/>
-Checkers can be played locally or against an AI. <br/>
+Checkers is a great game for people of any ages! <br/>
+Can be played locally or against an AI. <br/>
 This is an implementation of TechWithTim's Checkers Tutorial <br/>
 Enjoy! <br/>
 
