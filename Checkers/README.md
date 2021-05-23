@@ -10,3 +10,7 @@ Depth=3 <br/>
 
 # Known Bugs
 Up-Down triple+ jumps
+
+# Details
+Python = 2.7.18 <br/>
+PyGame = 1.9.2a0 <br/>
